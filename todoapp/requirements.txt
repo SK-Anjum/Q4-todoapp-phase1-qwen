@@ -1,0 +1,2 @@
+# Phase 1 - In-Memory Todo App
+# No external dependencies required - Python standard library only
